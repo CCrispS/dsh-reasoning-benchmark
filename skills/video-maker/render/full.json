@@ -1,0 +1,1230 @@
+{
+  "meta": {
+    "title": "两份声明之后：Chrono Divide 与 vera20k 授权争议",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "theme": "dark",
+    "tts": "auto",
+    "assets_dir": "../assets",
+    "assets_manifest": "../assets/assets.json"
+  },
+  "shots": [
+    {
+      "id": "0-01",
+      "type": "image",
+      "duration": 7.0,
+      "images": [
+        "图1"
+      ],
+      "motion": "push",
+      "caption": "Chrono Divide 原作者声明一／2026-10-29",
+      "narration": "2026 年 10 月 29 日，网页版红警项目 Chrono Divide 的原作者发表了一份声明。",
+      "content": "图1 原作者声明一，红框圈出发布时间 2026/10/29 和 “The official website is chronodivide.com”",
+      "note": "低音量氛围铺底音乐起"
+    },
+    {
+      "id": "0-02",
+      "type": "image",
+      "duration": 7.0,
+      "images": [
+        "图2"
+      ],
+      "motion": "push",
+      "caption": "Chrono Divide 原作者声明二／2026-11-04",
+      "narration": "11 月 4 日，他发表第二份声明，撤销了一个中文镜像站的运营许可。",
+      "content": "图2 原作者声明二，红框圈出 “is now revoked, effective November 3, 2026”"
+    },
+    {
+      "id": "0-03",
+      "type": "image",
+      "duration": 6.0,
+      "images": [
+        "图48"
+      ],
+      "motion": "push",
+      "caption": "VERA20K 作者声明／2026-11-08",
+      "narration": "11 月 8 日，开源项目 vera20k 的作者也发表了声明。",
+      "content": "图48 VERA20K 作者声明，红框圈出标题 “My position on Dogemoon / 网页红警 and VERA20K”"
+    },
+    {
+      "id": "0-04",
+      "type": "image",
+      "duration": 10.0,
+      "images": [
+        "图36"
+      ],
+      "motion": "push",
+      "caption": "网页红警方的说明 · Discord",
+      "narration": "两边的声明涉及同一方：B 站的“网页红警”，在 Discord 上叫 dogemoon，下文称网页红警方。这一方也公开作了回应。",
+      "content": "图36 dogemoon 在 Discord 上的说明，红框圈出开头“我在这里简要说明当前关于我的情况”"
+    },
+    {
+      "id": "0-05",
+      "type": "text",
+      "duration": 10.0,
+      "motion": "static",
+      "card": {
+        "title": "每个争议点这样讲",
+        "items": [
+          "原作者或公开记录怎么说",
+          "网页红警方怎么说",
+          "目前能确认什么"
+        ]
+      },
+      "narration": "这期视频不下结论，按争议点依次看：原作者或记录怎么说，网页红警方怎么说，目前能确认什么。",
+      "content": "深色底白字，三行依次出现"
+    },
+    {
+      "id": "0-06",
+      "type": "title",
+      "duration": 5.0,
+      "motion": "static",
+      "card": {
+        "title": "两份声明之后",
+        "sub": "Chrono Divide 与 vera20k 授权争议"
+      },
+      "content": "片名落版",
+      "note": "音乐转段"
+    },
+    {
+      "id": "1-01",
+      "type": "chapter",
+      "duration": 3.0,
+      "motion": "static",
+      "card": {
+        "kicker": "第一章",
+        "title": "当事方",
+        "sub": "两个项目、一个运营方、一家公司"
+      },
+      "content": "第一章",
+      "note": "黑场 0.5 秒转入"
+    },
+    {
+      "id": "1-02",
+      "type": "image",
+      "duration": 12.0,
+      "images": [
+        "图1"
+      ],
+      "motion": "push",
+      "caption": "Chrono Divide／闭源 · 非营利 · 三人维护",
+      "narration": "据原作者声明，Chrono Divide 是网页版《红色警戒2》的客户端和引擎，主要由 use-strict 开发，另有两位贡献者，闭源、非营利。",
+      "content": "图1 第一段，红框圈出 “non-profit project” 和 “maintained exclusively by the three of us”"
+    },
+    {
+      "id": "1-03",
+      "type": "image",
+      "duration": 8.0,
+      "images": [
+        "图48"
+      ],
+      "motion": "push",
+      "caption": "vera20k／开源 · GPL-3.0 加补充条款",
+      "narration": "vera20k 是社区用 Rust 重写红警2 的开源项目，许可证是 GPL-3.0 加补充条款。",
+      "content": "图48 倒数第二段，红框圈出 “VERA20K is licensed under GPLv3 with the applicable additional terms”"
+    },
+    {
+      "id": "1-04",
+      "type": "image",
+      "duration": 6.0,
+      "images": [
+        "图13"
+      ],
+      "motion": "down",
+      "caption": "网页红警方／B 站：网页红警 · Discord：dogemoon",
+      "narration": "网页红警方从 2023 年起，运营 Chrono Divide 的中文镜像站。",
+      "content": "图13 网页红警的 B 站动态，从账号名滚到正文"
+    },
+    {
+      "id": "1-05",
+      "type": "text",
+      "duration": 9.0,
+      "motion": "static",
+      "card": {
+        "title": "相关产品用过的名称",
+        "items": [
+          "网页红警",
+          "网页红井",
+          "红色井界（RA2WEB）",
+          "王二火大",
+          "尤里的复仇 Web",
+          "张三水小"
+        ]
+      },
+      "narration": "相关产品先后叫过：网页红警、网页红井、红色井界 RA2WEB、王二火大、尤里的复仇 Web、张三水小。",
+      "content": "产品名称依次出现"
+    },
+    {
+      "id": "1-06",
+      "type": "image",
+      "duration": 12.0,
+      "images": [
+        "图12"
+      ],
+      "motion": "push",
+      "caption": "瑞得哈希（北京）科技有限责任公司／企业登记信息",
+      "narration": "还有一家公司，瑞得哈希（北京）科技有限责任公司。企业登记显示，它 2026 年 2 月成立，注册资本 1.25 万元，地址标注“集群注册”。",
+      "content": "图12 企业信息，红框圈出公司名、注册资本 1.25 万元、成立日期和“集群注册”",
+      "note": "法定代表人名字已在素材中模糊，只留姓"
+    },
+    {
+      "id": "1-07",
+      "type": "image",
+      "duration": 8.0,
+      "images": [
+        "图11",
+        "图32",
+        "图40"
+      ],
+      "motion": "push",
+      "caption": "两个域名和一个商标的登记主体",
+      "narration": "记录显示，chronodivide.cn、ra2ok.cn 两个域名和 CHRONO DIVIDE 商标，都登记在这家公司名下。",
+      "content": "图11 图32 图40 轮播：chronodivide.cn 注册信息、商标初审公告、ra2ok.cn 注册信息，各自红框圈出注册者或申请人",
+      "note": "三张图平均轮播；邮箱已在素材中模糊"
+    },
+    {
+      "id": "1-08",
+      "type": "timeline",
+      "duration": 7.0,
+      "motion": "static",
+      "card": {
+        "title": "时间线",
+        "items": [
+          "2023：中文镜像站开始运营",
+          "2025-10-26：chronodivide.cn 注册",
+          "2026-05-08：商标申请",
+          "2026-10：PR #3087",
+          "2026-10-29 至 11-08：三份声明"
+        ]
+      },
+      "narration": "这件事从 2023 年的镜像站开始，到 2026 年 11 月的几份声明，前后三年多。",
+      "content": "2023 至 2026-11，节点依次出现"
+    },
+    {
+      "id": "1-09",
+      "type": "text",
+      "duration": 6.0,
+      "motion": "static",
+      "card": {
+        "title": "六个争议点",
+        "items": [
+          "A 镜像站的授权",
+          "B 名称说法",
+          "C 分发客户端文件",
+          "D 引擎和署名",
+          "E 域名和商标",
+          "F vera20k"
+        ]
+      },
+      "narration": "下面分六个争议点来看，最后补充几条其他说法。",
+      "content": "六个争议点依次出现"
+    },
+    {
+      "id": "2-01",
+      "type": "chapter",
+      "duration": 3.0,
+      "motion": "static",
+      "card": {
+        "kicker": "第二章",
+        "title": "争议点 A",
+        "sub": "镜像站的授权和条件"
+      },
+      "content": "第二章",
+      "note": "黑场 0.5 秒转入，音乐转段"
+    },
+    {
+      "id": "2-02",
+      "type": "image",
+      "duration": 8.0,
+      "images": [
+        "图5"
+      ],
+      "motion": "down",
+      "caption": "原作者 · Discord",
+      "narration": "先看原作者。他说，网页红警方的镜像最初没有事先问过他就部署了。",
+      "content": "图5 原作者的 Discord 回复，从上往下滚，红框圈出 “His mirror was also initially deployed without asking me first”",
+      "note": "上方他人的提问不读、不框选"
+    },
+    {
+      "id": "2-03",
+      "type": "image",
+      "duration": 12.0,
+      "images": [
+        "图5"
+      ],
+      "motion": "down",
+      "caption": "许可条件：不盈利 · 保留署名和标识",
+      "narration": "后来一次“破坏性更新”让镜像无法正常运行，对方才来联系。原作者答应可以继续用，条件是不盈利、保留署名和标识。",
+      "content": "图5 下半部分，红框依次圈出 “breaking changes” 和 “as long as he doesn't profit and keeps credits intact and identification elements”"
+    },
+    {
+      "id": "2-04",
+      "type": "image",
+      "duration": 8.0,
+      "images": [
+        "图1"
+      ],
+      "motion": "push",
+      "caption": "原作者声明一／2026-10-29",
+      "narration": "声明一列出了这些条件，并说明 Chrono Divide 是闭源软件，许可不包含再授权的权利。",
+      "content": "图1 第二、三段，红框圈出 “This was conditional on” 和 “Chrono Divide is proprietary, closed-source software”"
+    },
+    {
+      "id": "2-05",
+      "type": "image",
+      "duration": 8.0,
+      "images": [
+        "图23"
+      ],
+      "motion": "push",
+      "caption": "原作者 · Discord · 2026-10-31",
+      "narration": "原作者还说，主镜像每次都从他的域名自动同步客户端；镜像不能随意开设。",
+      "content": "图23 Discord 2026-10-31，红框圈出 “he just syncs automatically from my domain” 和 “ofc not”"
+    },
+    {
+      "id": "2-06",
+      "type": "image",
+      "duration": 8.0,
+      "images": [
+        "图2"
+      ],
+      "motion": "push",
+      "caption": "原作者声明二／2026-11-04",
+      "narration": "声明二写道：这些条件没有被遵守，从 2026 年 11 月 3 日起撤销镜像许可。",
+      "content": "图2 第一段，红框圈出 “Those conditions have not been respected” 和 “effective November 3, 2026”"
+    },
+    {
+      "id": "2-07",
+      "type": "image",
+      "duration": 13.0,
+      "images": [
+        "图3"
+      ],
+      "motion": "push",
+      "caption": "王二火大“决胜商店”页面",
+      "narration": "记录方面，王二火大客户端有一个“决胜商店”，以“决胜点”计价，提供排位翻倍卡、重新定级卡等道具；截图看不出决胜点怎么获得。",
+      "content": "图3 王二火大“决胜商店”页面，红框圈出“排位翻倍卡”“重新定级卡”“大厅喇叭”和右上角“决胜点”",
+      "note": "只陈述页面内容"
+    },
+    {
+      "id": "2-08",
+      "type": "image",
+      "duration": 11.0,
+      "images": [
+        "图6"
+      ],
+      "motion": "push",
+      "caption": "网页红警 · B 站评论 · 2023-10-01",
+      "narration": "网页红警方这边，2023 年 10 月，网页红警在 B 站评论说：“我们是大中华区代理”，镜像是“实时转发他软件的网页请求”。",
+      "content": "图6 B 站评论，红框圈出“我们是大中华区代理”和“实时呃转发他软件的网页请求”"
+    },
+    {
+      "id": "2-09",
+      "type": "image",
+      "duration": 11.0,
+      "images": [
+        "图4"
+      ],
+      "motion": "push",
+      "caption": "网页红警 · B 站评论 · 2024-03-01",
+      "narration": "2024 年 3 月，他列举了自己的贡献：修 AI bug、汉化、摇杆适配、网红启动器，并说原作者“基本有事都找我商量”。",
+      "content": "图4 B 站评论，红框只圈上方网页红警的评论，依次标出“修复了开发联调的AI bug”“汉化方案”“摇杆”“网红启动器”“基本有事都找我商量”",
+      "note": "下方其他网友的回复不读、不框选"
+    },
+    {
+      "id": "2-10",
+      "type": "text",
+      "duration": 8.0,
+      "motion": "static",
+      "card": {
+        "title": "能确认的",
+        "items": [
+          "原作者已公开表示撤销镜像许可",
+          "双方对“代理”关系的描述不一致"
+        ]
+      },
+      "narration": "能确认的是：原作者已公开表示撤销镜像许可；双方对“代理”关系的描述不一致。",
+      "content": "本节小结"
+    },
+    {
+      "id": "3-01",
+      "type": "chapter",
+      "duration": 3.0,
+      "motion": "static",
+      "card": {
+        "kicker": "第三章",
+        "title": "争议点 B",
+        "sub": "“正规授权”“国际版”“中文版”"
+      },
+      "content": "第三章",
+      "note": "黑场 0.5 秒转入，音乐转段"
+    },
+    {
+      "id": "3-02",
+      "type": "image",
+      "duration": 8.0,
+      "images": [
+        "图7"
+      ],
+      "motion": "push",
+      "caption": "原作者 · Discord",
+      "narration": "先看原作者。被问 chronodivide.cn 是不是官方网站，他回答：只有 chronodivide.com 和它的子域名。",
+      "content": "图7 Discord，红框圈出 “Only chronodivide.com and subdomains”"
+    },
+    {
+      "id": "3-03",
+      "type": "image",
+      "duration": 9.0,
+      "images": [
+        "图16"
+      ],
+      "motion": "push",
+      "caption": "原作者否认“国际版”的说法",
+      "narration": "有人把“Chrono Divide 是网页红警国际版项目名”的说法转述给原作者，原作者否认了这个说法。",
+      "content": "图16 Discord，红框圈出上方转述的 “Chronodivide is the project name for the international version of Web Red Alert”",
+      "note": "下方动图渲染时自动打码；旁白只交代原作者否认"
+    },
+    {
+      "id": "3-04",
+      "type": "image",
+      "duration": 9.0,
+      "images": [
+        "图2"
+      ],
+      "motion": "push",
+      "caption": "原作者声明二／2026-11-04",
+      "narration": "声明二还说：dogemoon 从未参与 Chrono Divide 的开发，唯一并入项目的贡献是一份中文翻译，已经被替换。",
+      "content": "图2 第二段，红框圈出 “never been part of the Chrono Divide development team” 和 “Chinese translation strings, which have since been removed and replaced”"
+    },
+    {
+      "id": "3-05",
+      "type": "image",
+      "duration": 11.0,
+      "images": [
+        "图13"
+      ],
+      "motion": "down",
+      "caption": "网页红警 · B 站动态 · 2023-12-12",
+      "narration": "网页红警方的说法：2023 年 12 月，网页红警发动态称“不是私服，就是 chronodivide 正规授权的”，“chronodivide 是网页红警的国际版项目名”。",
+      "content": "图13 B 站动态 2023-12-12，红框依次圈出“就是chronodivide正规授权的”和“chronodivide是网页红警的国际版项目名”"
+    },
+    {
+      "id": "3-06",
+      "type": "image",
+      "duration": 5.0,
+      "images": [
+        "图9"
+      ],
+      "motion": "push",
+      "caption": "chronodivide.cn 关于页",
+      "narration": "chronodivide.cn 的关于页也写着：“RA2WEB 是 ChronoDivide 的中文版”。",
+      "content": "图9 chronodivide.cn 关于页，红框圈出“RA2WEB是ChronoDivide的中文版”"
+    },
+    {
+      "id": "3-07",
+      "type": "image",
+      "duration": 10.0,
+      "images": [
+        "图14"
+      ],
+      "motion": "push",
+      "caption": "网页红警方 · 私信 · 2023-12-22",
+      "narration": "同月的一段私信里，他被问到“游戏主体核心不是你的吧”，回答是：“不是我的”，“我也没说过是我的”。",
+      "content": "图14 私信 2023-12-22，红框圈出提问“游戏主体核心不是你的吧”和回答“不是我的”“我也没说过是我的”",
+      "note": "私信只用于呈现网页红警方本人的说法，原话完整引用"
+    },
+    {
+      "id": "3-08",
+      "type": "text",
+      "duration": 7.0,
+      "motion": "static",
+      "card": {
+        "title": "能确认的",
+        "items": [
+          "“国际版”“中文版”是网页红警方的说法",
+          "原作者公开否认"
+        ]
+      },
+      "narration": "能确认的是：“国际版”“中文版”是网页红警方的说法，原作者公开否认。",
+      "content": "本节小结"
+    },
+    {
+      "id": "4-01",
+      "type": "chapter",
+      "duration": 3.0,
+      "motion": "static",
+      "card": {
+        "kicker": "第四章",
+        "title": "争议点 C",
+        "sub": "分发客户端文件"
+      },
+      "content": "第四章",
+      "note": "黑场 0.5 秒转入，音乐转段"
+    },
+    {
+      "id": "4-02",
+      "type": "text",
+      "duration": 7.0,
+      "motion": "static",
+      "card": {
+        "title": "客户端文件能不能分发？",
+        "sub": "双方的说法相反"
+      },
+      "narration": "客户端文件能不能拿去分发、让别人自己部署？双方的说法相反。",
+      "content": "深色底白字"
+    },
+    {
+      "id": "4-03",
+      "type": "image",
+      "duration": 11.0,
+      "images": [
+        "图22"
+      ],
+      "motion": "down",
+      "caption": "原作者 · Discord",
+      "narration": "先看原作者。有人把“原作者明确许可，可以分发”这句话翻译给他看，他的回答是：“obviously not true”，显然不是真的。",
+      "content": "图22 Discord，从上往下滚，红框圈出转述的 “The original author has explicitly permitted the deployment of the historical static files, and they can be distributed.” 和回答 “What can I say, obviously not true.”"
+    },
+    {
+      "id": "4-04",
+      "type": "image",
+      "duration": 15.0,
+      "images": [
+        "图17"
+      ],
+      "motion": "down",
+      "caption": "网页红警 · B 站视频 · 2024-03-02",
+      "narration": "网页红警方：2024 年 3 月的视频《如何部署自己的网页红井？》里，群聊消息称历史静态文件的部署“原作者明确许可，可以分发”，没有作者授权时只能玩单机。",
+      "content": "图17 B 站视频《如何部署自己的网页红井？》2024-03-02，从视频里的群聊画面滚到标题，红框圈出“历史静态文件的部署原作者明确许可，可以分发”和“未有Chronodivide作者授权情况下，只能游玩单机”"
+    },
+    {
+      "id": "4-05",
+      "type": "image",
+      "duration": 8.0,
+      "images": [
+        "图18"
+      ],
+      "motion": "push",
+      "caption": "网页红警方的部署文案",
+      "narration": "部署文案让用户 fork ra2web.github.io，并写明“chronodivide 并不是开源项目”，不提供源代码。",
+      "content": "图18 部署文案，红框圈出“fork”和“chronodivide并不是开源项目”"
+    },
+    {
+      "id": "4-06",
+      "type": "text",
+      "duration": 8.0,
+      "motion": "static",
+      "card": {
+        "title": "能确认的",
+        "items": [
+          "双方对是否许可分发的说法相反",
+          "没有书面许可的公开记录"
+        ]
+      },
+      "narration": "能确认的是：双方对是否许可分发的说法相反，没有书面许可的公开记录。",
+      "content": "本节小结"
+    },
+    {
+      "id": "5-01",
+      "type": "chapter",
+      "duration": 3.0,
+      "motion": "static",
+      "card": {
+        "kicker": "第五章",
+        "title": "争议点 D",
+        "sub": "引擎来源和“自研”说法"
+      },
+      "content": "第五章",
+      "note": "黑场 0.5 秒转入，音乐转段"
+    },
+    {
+      "id": "5-02",
+      "type": "image",
+      "duration": 7.0,
+      "images": [
+        "图1"
+      ],
+      "motion": "push",
+      "caption": "原作者声明一／2026-10-29",
+      "narration": "先看原作者。声明一说，Chrono Divide 用的是为这个项目独立开发的引擎。",
+      "content": "图1 最后一段，红框圈出 “Chrono Divide uses an independently developed game engine”"
+    },
+    {
+      "id": "5-03",
+      "type": "image",
+      "duration": 7.0,
+      "images": [
+        "图27"
+      ],
+      "motion": "push",
+      "caption": "王二火大主菜单 · v0.87.1",
+      "narration": "记录方面，王二火大 v0.87.1 的主菜单上，标题下方显示着 CHRONO DIVIDE 标识。",
+      "content": "图27 王二火大主菜单，红框圈出标题下方的 CHRONO DIVIDE 标识和版本号 v0.87.1"
+    },
+    {
+      "id": "5-04",
+      "type": "image",
+      "duration": 8.0,
+      "images": [
+        "图24"
+      ],
+      "motion": "push",
+      "caption": "ts-redalert2 README",
+      "narration": "开源仓库 ts-redalert2 的 README 写着“基于《红色井界》RA2WEB 的分析而开发”，许可证是 GPL-3.0。",
+      "content": "图24 ts-redalert2 README，红框圈出“基于《红色井界》RA2WEB www.ra2web.com 的分析而开发”和“GPL-3.0 license”"
+    },
+    {
+      "id": "5-05",
+      "type": "image",
+      "duration": 11.0,
+      "images": [
+        "图25"
+      ],
+      "motion": "push",
+      "caption": "提交记录／Reposition ra2web as fully self-developed",
+      "narration": "镜像许可撤销前后，ra2web 仓库有一次提交：把 ra2web 重新定位为完全自研，去掉 Chronodivide 的转发内容。",
+      "content": "图25 提交记录，红框圈出 “Reposition ra2web as fully self-developed and drop Chronodivide passthroughs”"
+    },
+    {
+      "id": "5-06",
+      "type": "image",
+      "duration": 10.0,
+      "images": [
+        "图26"
+      ],
+      "motion": "right",
+      "caption": "README 改动",
+      "narration": "README 的另一处改动，把“基于《时空分裂》”改成“基于《红色井界》”，并删去了一句写有原作者名字的声明。",
+      "content": "图26 README 改动对比，从左向右平移，红框圈出“《时空分裂》”改为“《红色井界》”的几行和被删除的一句",
+      "note": "画面中的原作者署名不念出、不打字幕"
+    },
+    {
+      "id": "5-07",
+      "type": "image",
+      "duration": 13.0,
+      "images": [
+        "图15"
+      ],
+      "motion": "push",
+      "caption": "红色井界介绍页（网页红警方自述）",
+      "narration": "网页红警方的说法：红色井界介绍页写着“基于 Chronodivide 引擎开发”，并称 2023 年 8 月取得软著，2024 年 3 月 RA2WEB LTD 完成英国商标注册。",
+      "content": "图15 红色井界介绍页，红框圈出“是一款基于Chronodivide引擎开发的网页即时战略游戏”“完成软件著作权等知识产权申请并获得批准”“完成了海外RA2WEB的商标注册申请”",
+      "note": "软著和英国商标均为页面自称，本片未核实"
+    },
+    {
+      "id": "5-08",
+      "type": "split",
+      "duration": 11.0,
+      "images": [
+        "图15",
+        "图10"
+      ],
+      "motion": "static",
+      "card": {
+        "left": "介绍页：基于 Chronodivide 引擎开发",
+        "right": "关于页：全面自研、完全知识产权"
+      },
+      "narration": "而“关于红色井界”页面写的是：全面自研、拥有完全知识产权的闭源项目，有 20 余万用户。两个页面的说法不同。",
+      "content": "左 图15 介绍页，右 图10「关于红色井界™」页面，红框圈出“全面自研”“具有完全知识产权的闭源项目”“20余万用户”"
+    },
+    {
+      "id": "5-09",
+      "type": "image",
+      "duration": 8.0,
+      "images": [
+        "图19"
+      ],
+      "motion": "push",
+      "caption": "抖音“王二火大”主页",
+      "narration": "抖音“王二火大”的主页简介写着：“全球第一个开源对标红警2游戏引擎的人”。",
+      "content": "图19 抖音“王二火大”主页，红框圈出“全球第一个开源对标红警2游戏引擎的人”",
+      "note": "性别年龄已在素材中模糊"
+    },
+    {
+      "id": "5-10",
+      "type": "image",
+      "duration": 13.0,
+      "images": [
+        "图20",
+        "图21"
+      ],
+      "motion": "push",
+      "caption": "X 帖子 · 2026-09-25、2026-10-05",
+      "narration": "在 X 上，网页红警方发帖称，把手头的闭源项目“抽取”成开源仓库 ts-redalert2，用于 AI 训练；又说在它开源之前，大模型写不出红警2。",
+      "content": "图20 图21 X 帖子轮播：2026-09-25 红框圈出“将手头的闭源项目进行‘抽取’，形成的开源仓库”；2026-10-05 红框圈出“在我的ts-redalert2开源之前，大模型根本无法oneshot写出红警2”",
+      "note": "账号名不念出"
+    },
+    {
+      "id": "5-11",
+      "type": "image",
+      "duration": 14.0,
+      "images": [
+        "图29"
+      ],
+      "motion": "push",
+      "caption": "网页红警 · B 站评论",
+      "narration": "对许可问题，网页红警在 B 站评论说，这“只是一个单纯的开源项目”，跟他运营的网站无关；项目里有多个 GPLv3 代码，“cd 应该开源，否则是他违规”。",
+      "content": "图29 B 站评论，红框圈出“这个跟目前我运营的网站无关，只是一个单纯的开源项目”和“cd应该开源，否则是他违规”",
+      "note": "作为网页红警方对许可问题的看法呈现"
+    },
+    {
+      "id": "5-12",
+      "type": "image",
+      "duration": 11.0,
+      "images": [
+        "图28"
+      ],
+      "motion": "push",
+      "caption": "dogemoon · Discord · 2026-10-28",
+      "narration": "关于菜单上的标识，dogemoon 表示会从自己的版本里移除，方便大家区分；以前使用它，是出于对创始人要求的尊重。",
+      "content": "图28 Discord 2026-10-28，红框只圈 dogemoon 的回复 “I will remove it from my own build so everyone can tell them apart.”",
+      "note": "昵称标签渲染时自动打码；首行他人留言含粗口，不框选、不朗读，剪辑时建议裁掉"
+    },
+    {
+      "id": "5-13",
+      "type": "text",
+      "duration": 11.0,
+      "motion": "static",
+      "card": {
+        "title": "能确认的",
+        "items": [
+          "提交记录显示“完全自研”的改动和署名文字的删除",
+          "引擎现在实际用什么代码，没有公开证据"
+        ]
+      },
+      "narration": "能确认的是：提交记录显示了“完全自研”的改动和署名文字的删除；引擎现在实际用的是什么代码，没有公开证据。",
+      "content": "本节小结"
+    },
+    {
+      "id": "6-01",
+      "type": "chapter",
+      "duration": 3.0,
+      "motion": "static",
+      "card": {
+        "kicker": "第六章",
+        "title": "争议点 E",
+        "sub": "域名和商标"
+      },
+      "content": "第六章",
+      "note": "黑场 0.5 秒转入，音乐转段"
+    },
+    {
+      "id": "6-02",
+      "type": "image",
+      "duration": 7.0,
+      "images": [
+        "图11"
+      ],
+      "motion": "push",
+      "caption": "chronodivide.cn 注册信息 · 2025-10-26",
+      "narration": "先看记录。chronodivide.cn 于 2025 年 10 月 26 日注册，注册者是瑞得哈希。",
+      "content": "图11 chronodivide.cn 注册信息，红框圈出注册者和注册时间",
+      "note": "邮箱已在素材中模糊"
+    },
+    {
+      "id": "6-03",
+      "type": "image",
+      "duration": 6.0,
+      "images": [
+        "图8"
+      ],
+      "motion": "push",
+      "caption": "chronodivide.cn 搜索结果",
+      "narration": "搜索结果里，这个网站称自己“具有独立自主知识产权”。",
+      "content": "图8 搜索结果，红框圈出“具有独立自主知识产权”"
+    },
+    {
+      "id": "6-04",
+      "type": "image",
+      "duration": 7.0,
+      "images": [
+        "图32"
+      ],
+      "motion": "push",
+      "caption": "商标第 91624924 号 · 申请日 2026-05-08",
+      "narration": "CHRONO DIVIDE 商标，第 91624924 号，2026 年 5 月 8 日由瑞得哈希申请，已经初审公告。",
+      "content": "图32 上半部分的商标初步审定公告，红框圈出第 91624924 号、申请日期和申请人"
+    },
+    {
+      "id": "6-05",
+      "type": "image",
+      "duration": 6.0,
+      "images": [
+        "图40"
+      ],
+      "motion": "push",
+      "caption": "ra2ok.cn 注册信息 · 2026-11-06",
+      "narration": "2026 年 11 月 6 日，ra2ok.cn 注册，注册人也是瑞得哈希。",
+      "content": "图40 ra2ok.cn 注册信息，红框圈出域名、注册人和注册时间",
+      "note": "邮箱已在素材中模糊"
+    },
+    {
+      "id": "6-06",
+      "type": "split",
+      "duration": 10.0,
+      "images": [
+        "图39",
+        "图40"
+      ],
+      "motion": "static",
+      "card": {
+        "left": "ra20k.com：经 vera20k 作者许可",
+        "right": "ra2ok.cn：2026-11-06 注册"
+      },
+      "narration": "据 vera20k 作者说，ra20k.com 由社区成员运营，获得了他的许可。ra20k 和 ra2ok，两个域名名称相近。",
+      "content": "左 图39 vera20k 作者说明 ra20k 获得许可，右 图40 ra2ok.cn 注册信息"
+    },
+    {
+      "id": "6-07",
+      "type": "image",
+      "duration": 6.0,
+      "images": [
+        "图32"
+      ],
+      "motion": "push",
+      "caption": "原作者 · Discord · 2026-10-29",
+      "narration": "原作者对这个商标的回复是：“I did not authorize it.”，我没有授权。",
+      "content": "图32 下方，红框圈出原作者的回复 “I did not authorize it.”"
+    },
+    {
+      "id": "6-08",
+      "type": "image",
+      "duration": 8.0,
+      "images": [
+        "图1"
+      ],
+      "motion": "push",
+      "caption": "原作者声明一／2026-10-29",
+      "narration": "声明一也写明：他从未授权任何一方，在中国或其他地区注册 CHRONO DIVIDE 商标。",
+      "content": "图1 第五段，红框圈出 “I have never authorized” 到 “as a trademark in China or any other jurisdiction”"
+    },
+    {
+      "id": "6-09",
+      "type": "image",
+      "duration": 13.0,
+      "images": [
+        "图31"
+      ],
+      "motion": "push",
+      "caption": "dogemoon · Discord · 2026-10-28",
+      "narration": "网页红警方的说法：被问到商标时，dogemoon 称“并不是抢注”，他之前和 cd 创始人提过“代为国内维权”；被问对方是否同意，他答：“说了代为维权”。",
+      "content": "图31 Discord 2026-10-28，红框圈出 dogemoon 的两条回复",
+      "note": "昵称标签渲染时自动打码；提问者的原话不读"
+    },
+    {
+      "id": "6-10",
+      "type": "image",
+      "duration": 14.0,
+      "images": [
+        "图30"
+      ],
+      "motion": "down",
+      "caption": "dogemoon · Discord · 2026-10-28",
+      "narration": "他还说，在国内，针对 mod 和红警创作的侵权都是“舆论审判”而不是法律审判；“如果我维权成功”，希望大家都尽量自己注册商标，走法律途径。",
+      "content": "图30 Discord 2026-10-28，从英文滚到中文，红框圈出“如果我维权成功，希望大家能够都尽量自己注册商标”",
+      "note": "昵称标签渲染时自动打码"
+    },
+    {
+      "id": "6-11",
+      "type": "text",
+      "duration": 11.0,
+      "motion": "static",
+      "card": {
+        "title": "能确认的",
+        "items": [
+          "域名和商标的登记主体是瑞得哈希",
+          "原作者公开表示没有授权商标",
+          "网页红警方称是“代为维权”"
+        ]
+      },
+      "narration": "能确认的是：域名和商标的登记主体是瑞得哈希；原作者公开表示没有授权商标；网页红警方称是“代为维权”。",
+      "content": "本节小结"
+    },
+    {
+      "id": "7-01",
+      "type": "chapter",
+      "duration": 3.0,
+      "motion": "static",
+      "card": {
+        "kicker": "第七章",
+        "title": "争议点 F",
+        "sub": "vera20k 和 PR #3087"
+      },
+      "content": "第七章",
+      "note": "黑场 0.5 秒转入，音乐转段"
+    },
+    {
+      "id": "7-02",
+      "type": "image",
+      "duration": 8.0,
+      "images": [
+        "图34"
+      ],
+      "motion": "push",
+      "caption": "原作者 · Discord",
+      "narration": "先看原作者和记录。原作者说，Chrono Divide 没有《尤里的复仇》内容，只支持原版红警2。",
+      "content": "图34 Discord，红框圈出 “There is no Yuri's Revenge content”"
+    },
+    {
+      "id": "7-03",
+      "type": "image",
+      "duration": 11.0,
+      "images": [
+        "图35"
+      ],
+      "motion": "push",
+      "caption": "“尤里的复仇 Web”页面 · 页内搜索 vera20k：0/0",
+      "narration": "网页红警方推出的“尤里的复仇 Web”页面里，搜索 vera20k 结果是 0/0；页面提供“下载王二火大移动客户端”。",
+      "content": "图35「尤里的复仇 Web」页面，红框圈出页内搜索“vera20k 0/0”和“下载王二火大移动客户端”"
+    },
+    {
+      "id": "7-04",
+      "type": "image",
+      "duration": 10.0,
+      "images": [
+        "图37"
+      ],
+      "motion": "right",
+      "caption": "PR #3087 改动",
+      "narration": "2026 年 10 月，向 vera20k 提交的 PR 3087，把应用名 VERA20k.app 改成了“王二火大.app”，ipa 文件也随之改名。",
+      "content": "图37 PR 改动对比，红框圈出 “VERA20k.app” 改为 “王二火大.app” 和 ipa 文件名"
+    },
+    {
+      "id": "7-05",
+      "type": "image",
+      "duration": 12.0,
+      "images": [
+        "图48"
+      ],
+      "motion": "push",
+      "caption": "VERA20K 作者声明 · 2026-11-08",
+      "narration": "vera20k 作者说，这个 PR 加入了对方的品牌和权利声明，隐藏了 Internet 菜单，把“Movies & Credits”换成对方网站的链接，没有合并就被关闭。",
+      "content": "图48 第二段，红框圈出 “PR #3087 included his branding and rights notice, hid the Internet menu entry”"
+    },
+    {
+      "id": "7-06",
+      "type": "image",
+      "duration": 9.0,
+      "images": [
+        "图48"
+      ],
+      "motion": "push",
+      "caption": "VERA20K 作者：“OK”只表示“看到了”",
+      "narration": "他还说，对方后来告诉他已经作了修正；他回复的“OK”只表示看到了，不代表认可。",
+      "content": "图48 第三段，红框圈出 “My reply of \"OK\" meant only that I had seen and understood the changes he reported.”"
+    },
+    {
+      "id": "7-07",
+      "type": "quote",
+      "duration": 8.0,
+      "motion": "static",
+      "card": {
+        "title": "我要求 Dogemoon 停止分发基于 VERA20K 的发布版本。我禁止 Dogemoon 以任何方式使用 VERA20K。",
+        "sub": "VERA20K 作者声明，2026-11-08（中译）"
+      },
+      "narration": "声明最后，他要求 dogemoon 停止分发基于 VERA20K 的版本，禁止以任何方式使用 VERA20K。",
+      "content": "VERA20K 作者声明最后一段的中译，深色底"
+    },
+    {
+      "id": "7-08",
+      "type": "image",
+      "duration": 15.0,
+      "images": [
+        "图36"
+      ],
+      "motion": "right",
+      "caption": "dogemoon · Discord 说明",
+      "narration": "网页红警方的说法：dogemoon 称，youlidefuchou 早已说明基于 vera20k；修改部分的源码因个人原因没有及时上传，是他的问题；他已提交自认为没有问题的 3090 号 PR，遵循了 GPLv3。",
+      "content": "图36 dogemoon 的 Discord 说明，红框依次圈出第 1、2、3 条",
+      "note": "对方说法，完整呈现"
+    },
+    {
+      "id": "7-09",
+      "type": "image",
+      "duration": 11.0,
+      "images": [
+        "图49"
+      ],
+      "motion": "push",
+      "caption": "dogemoon · 私信 · 2026-10-27",
+      "narration": "私信里他说：“你真觉得我是在投毒啊？”第一个 PR 别人说有问题，他就及时改了，提交了第二个；之前代码始终开源。",
+      "content": "图49 私信 2026-10-27 上半部分，红框圈出“你真觉得我是在投毒啊？”和“第一个别人说有问题，我就及时改了提交了第二个”",
+      "note": "私信只用于呈现网页红警方本人的说法，完整呈现"
+    },
+    {
+      "id": "7-10",
+      "type": "image",
+      "duration": 11.0,
+      "images": [
+        "图49"
+      ],
+      "motion": "push",
+      "caption": "dogemoon · 私信 · 2026-10-27",
+      "narration": "他还说，“王二火大”本身是一个无厘头的名字；又称有人私聊告诉他，包括对方在内的人“都是收了钱的”。",
+      "content": "图49 下半部分，红框圈出“本身就是一个无厘头的名字”和“有人私聊我说包括你在内的人都是收了钱的”"
+    },
+    {
+      "id": "7-11",
+      "type": "image",
+      "duration": 13.0,
+      "images": [
+        "图47"
+      ],
+      "motion": "right",
+      "caption": "网页红警 · B 站评论",
+      "narration": "之后，网页红警在 B 站评论说，之前的过失，比如“没有在网站上公示精确到 commit 的版本”，已经“获得了 vera20k 创始人的正式确认 ok”。",
+      "content": "图47 B 站评论，红框圈出“没有在网站上公示精确到 commit 的版本”和“获得了 vera20k 创始人的正式确认 ok”",
+      "note": "对方说法，完整呈现"
+    },
+    {
+      "id": "7-12",
+      "type": "image",
+      "duration": 11.0,
+      "images": [
+        "图46"
+      ],
+      "motion": "push",
+      "caption": "网页红警 · B 站动态 · 2026-11-15",
+      "narration": "11 月 15 日，网页红警推出“张三水小：尤里的复仇”，称它基于开源项目 ra2recomp，比 vera20k、OpenRA、Chrono Divide 表现强很多。",
+      "content": "图46 B 站动态 2026-11-15，红框圈出标题“张三水小: 尤里的复仇 正式推出”和“比目前市面上诸如 vera20k openra chronodivide 等引擎表现性能强很多”"
+    },
+    {
+      "id": "7-13",
+      "type": "split",
+      "duration": 9.0,
+      "motion": "static",
+      "card": {
+        "left": "有网友称：与第一个基本相同（未经核实）",
+        "right": "网页红警方：3090 号 PR 没有问题",
+        "title": "关于第二个 PR"
+      },
+      "narration": "关于第二个 PR，有网友称与第一个基本相同，未经核实；网页红警方称 3090 号 PR 没有问题。",
+      "content": "左右文字对照，不放图"
+    },
+    {
+      "id": "7-14",
+      "type": "text",
+      "duration": 9.0,
+      "motion": "static",
+      "card": {
+        "title": "能确认的",
+        "items": [
+          "PR #3087 的改动有记录可查",
+          "双方对“OK”的理解不同",
+          "vera20k 作者已在声明中说明本意"
+        ]
+      },
+      "narration": "能确认的是：PR 3087 的改动有记录可查；双方对“OK”的理解不同，vera20k 作者已在声明中说明本意。",
+      "content": "本节小结"
+    },
+    {
+      "id": "8-01",
+      "type": "chapter",
+      "duration": 3.0,
+      "motion": "static",
+      "card": {
+        "kicker": "第八章",
+        "title": "其他说法",
+        "sub": "赞助数额、mod 悬赏、自述"
+      },
+      "content": "第八章",
+      "note": "黑场 0.5 秒转入，音乐转轻"
+    },
+    {
+      "id": "8-02",
+      "type": "image",
+      "duration": 12.0,
+      "images": [
+        "图45"
+      ],
+      "motion": "push",
+      "caption": "原作者 · Discord · 2026-10-28",
+      "narration": "关于赞助。原作者说，几年前收到过一笔 DOGE 捐赠，但“nowhere near that amount”，远没有那个数额；来源无法核实，不过他也没有理由怀疑。",
+      "content": "图45 Discord 2026-10-28，红框只圈下方原作者的回复，标出 “nowhere near that amount”",
+      "note": "上方提问者的话不读、不框选；与下一镜成对出现"
+    },
+    {
+      "id": "8-03",
+      "type": "image",
+      "duration": 11.0,
+      "images": [
+        "图43",
+        "图44"
+      ],
+      "motion": "push",
+      "caption": "网页红警方 · 私信",
+      "narration": "网页红警方在私信里的说法是：“cd 通过我的渠道已经拿了至少 5000 赞助”，“他因为我的网站收入了几乎上万元”。",
+      "content": "图43 图44 私信截图轮播，红框分别圈出“至少5000赞助”和“几乎上万元”",
+      "note": "与上一镜成对出现；私信只用于呈现网页红警方本人的说法"
+    },
+    {
+      "id": "8-04",
+      "type": "text",
+      "duration": 6.0,
+      "motion": "static",
+      "card": {
+        "title": "能确认的",
+        "items": [
+          "双方说的数额不一致",
+          "截图之外没有记录"
+        ]
+      },
+      "narration": "能确认的是：双方说的数额不一致，截图之外没有记录。",
+      "content": "小结"
+    },
+    {
+      "id": "8-05",
+      "type": "image",
+      "duration": 14.0,
+      "images": [
+        "图42"
+      ],
+      "motion": "push",
+      "caption": "网页红警 · 视频字卡（原视频已删除）",
+      "narration": "另一段往来是 mod 悬赏，与授权无关。网页红警的视频字卡提到“悬赏 200 元甚至 2000 元”，“某位大佬称共和国之辉根本不配那么多钱”，视频已删除。",
+      "content": "图42 网页红警视频字卡，红框圈出“悬赏200元甚至2000元”和“某位大佬称共和国之辉根本不配那么多钱”"
+    },
+    {
+      "id": "8-06",
+      "type": "image",
+      "duration": 8.0,
+      "images": [
+        "图41"
+      ],
+      "motion": "push",
+      "caption": "网页红警 · B 站评论",
+      "narration": "评论里他说：“我可没说不给钱”，“先给一部分，200 作为辛苦费，后面的慢慢来”。",
+      "content": "图41 B 站评论，红框只圈下方网页红警的回复，标出“我可没说不给钱”和“先给一部分，200作为辛苦费，后面的慢慢来”",
+      "note": "上方网友评论不读、不框选"
+    },
+    {
+      "id": "8-07",
+      "type": "text",
+      "duration": 7.0,
+      "motion": "static",
+      "card": {
+        "title": "mod 制作者的说明",
+        "sub": "bilibili.com/opus/903842774736961573（以原文为准，本片未核实）"
+      },
+      "narration": "mod 制作者在 B 站公开说明了经过，有转述称 2000 元最终付清，以原文为准。",
+      "content": "第三方说明的出处"
+    },
+    {
+      "id": "8-08",
+      "type": "image",
+      "duration": 11.0,
+      "images": [
+        "图50"
+      ],
+      "motion": "push",
+      "caption": "dogemoon · Discord",
+      "narration": "最后是网页红警方对动机的自述：“我或许就是使命召唤中的普莱斯，我有自己热爱的东西需要捍卫”。",
+      "content": "图50 dogemoon 的 Discord 消息，红框圈出全文",
+      "note": "原样引用，不加评论；昵称标签渲染时自动打码"
+    },
+    {
+      "id": "9-01",
+      "type": "chapter",
+      "duration": 3.0,
+      "motion": "static",
+      "card": {
+        "kicker": "第九章",
+        "title": "结尾",
+        "sub": "记录与分歧"
+      },
+      "content": "第九章",
+      "note": "黑场 0.5 秒转入"
+    },
+    {
+      "id": "9-02",
+      "type": "timeline",
+      "duration": 16.0,
+      "motion": "static",
+      "card": {
+        "title": "记录回顾",
+        "items": [
+          "2025-10-26：chronodivide.cn 注册",
+          "2026-05-08：商标申请",
+          "2026-10：PR #3087",
+          "2026-11-03：镜像许可撤销生效",
+          "同期：“完全自研”提交",
+          "2026-11-06：ra2ok.cn 注册",
+          "2026-11-08：vera20k 作者声明"
+        ]
+      },
+      "narration": "回顾记录：2025 年 10 月 chronodivide.cn 注册，2026 年 5 月商标申请，10 月 PR 3087，11 月 3 日镜像许可撤销生效，同期有“完全自研”提交，11 月 6 日 ra2ok.cn 注册，11 月 8 日 vera20k 作者发表声明。",
+      "content": "2025-10 至 2026-11，节点依次出现"
+    },
+    {
+      "id": "9-03",
+      "type": "text",
+      "duration": 10.0,
+      "motion": "static",
+      "card": {
+        "title": "仍有分歧",
+        "items": [
+          "有条件许可还是“代理”",
+          "客户端文件是否获准分发",
+          "商标是否“代为维权”",
+          "“OK”的含义",
+          "赞助数额"
+        ]
+      },
+      "narration": "仍有分歧的是：有条件许可还是“代理”，文件是否获准分发，商标是否“代为维权”，“OK”的含义，以及赞助数额。",
+      "content": "五项分歧依次出现"
+    },
+    {
+      "id": "9-04",
+      "type": "split",
+      "duration": 10.0,
+      "images": [
+        "图2",
+        "图7"
+      ],
+      "motion": "static",
+      "card": {
+        "left": "声明二：客户端只用 game.chronodivide.com",
+        "right": "原作者：官方只有 chronodivide.com 及其子域名"
+      },
+      "narration": "原作者提醒：官方站点是 chronodivide.com，客户端只用 game.chronodivide.com，不要在其他域名或第三方客户端输入账号密码。",
+      "content": "左 图2 声明二最后一段，右 图7"
+    },
+    {
+      "id": "9-05",
+      "type": "text",
+      "duration": 8.0,
+      "motion": "static",
+      "card": {
+        "title": "查看项目许可证",
+        "sub": "例如 vera20k：GPL-3.0 加补充条款"
+      },
+      "narration": "使用开源项目或它的衍生版本时，也可以先看看它的许可证和署名要求。",
+      "content": "深色底白字"
+    },
+    {
+      "id": "9-06",
+      "type": "text",
+      "duration": 8.0,
+      "motion": "static",
+      "card": {
+        "title": "本片只整理公开记录和双方说法",
+        "sub": "后续进展以当事方的公开发布为准"
+      },
+      "narration": "本片只整理公开记录和双方的说法，后续进展以当事方的公开发布为准。",
+      "content": "深色底白字"
+    },
+    {
+      "id": "9-07",
+      "type": "end",
+      "duration": 8.0,
+      "motion": "static",
+      "card": {
+        "title": "信源",
+        "sub": "Chrono Divide 原作者声明 2026-10-29、2026-11-04 · VERA20K 作者声明 2026-11-08 · 域名注册信息 · 企业登记信息 · 商标初审公告第 91624924 号 · GitHub 提交记录与 PR #3087 · B 站、Discord、X 公开发言截图"
+      },
+      "content": "信源列表",
+      "note": "音乐收尾"
+    }
+  ]
+}

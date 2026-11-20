@@ -1,0 +1,575 @@
+{
+  "project": "video-maker",
+  "source": "原稿 docx 内嵌插图，按出现顺序编号（图N = 原稿第 N 张）",
+  "coords": "redact / baked_redact 均为 [x, y, w, h]，0–1 的比例坐标，原点在左上角",
+  "images": [
+    {
+      "id": "图1",
+      "file": "img01.png",
+      "width": 1409,
+      "height": 653,
+      "desc": "Discord use-strict 声明一 2026/10/29（英文；三人维护、官方仅chronodivide.com、镜像授权条件、闭源无再许可、致谢仅翻译、未授权商标、独立引擎）",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图2",
+      "file": "img02.png",
+      "width": 1302,
+      "height": 638,
+      "desc": "Discord use-strict 声明二 2026/11/4（条件未遵守，2026-11-3起撤销镜像许可；dogemoon非开发者，仅翻译且已移除；只用game.chronodivide.com）",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图3",
+      "file": "img03.png",
+      "width": 1024,
+      "height": 925,
+      "desc": "王二火大「决胜商店」增值服务页（排位翻倍卡200点、重新定级卡1000点、大厅喇叭），以“决胜点”计价",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图4",
+      "file": "img04.png",
+      "width": 1009,
+      "height": 274,
+      "desc": "B站评论 2024-03-01 网页红警列“贡献”（修AI bug、汉化、摇杆、网红启动器）及网友回复",
+      "redact": [
+        [
+          0.0,
+          0.55,
+          1.0,
+          0.4
+        ]
+      ],
+      "recommended": true,
+      "note": "第三方的回复（下半部分）渲染时打码"
+    },
+    {
+      "id": "图5",
+      "file": "img05.png",
+      "width": 1280,
+      "height": 1032,
+      "desc": "Discord use-strict：镜像最初未经同意部署，破坏性更新后才来联系；条件=不盈利、保留署名标识",
+      "redact": [
+        [
+          0.12,
+          0.0,
+          0.8,
+          0.23
+        ]
+      ],
+      "recommended": true,
+      "note": "顶部第三方提问渲染时打码"
+    },
+    {
+      "id": "图6",
+      "file": "img06.png",
+      "width": 1162,
+      "height": 276,
+      "desc": "B站评论 2023-10-01 网页红警“我们是大中华区代理…实时转发他软件的网页请求”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图7",
+      "file": "img07.png",
+      "width": 1280,
+      "height": 668,
+      "desc": "Discord：问chronodivide.cn是否官方→use-strict“Only chronodivide.com and subdomains”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图8",
+      "file": "img08.png",
+      "width": 986,
+      "height": 153,
+      "desc": "搜索结果 chronodivide.cn“具有独立自主知识产权…RA2WEB中文版”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图9",
+      "file": "img09.png",
+      "width": 1089,
+      "height": 560,
+      "desc": "chronodivide.cn「关于」页：独立自主知识产权；红框“RA2WEB是ChronoDivide的中文版”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图10",
+      "file": "img10.png",
+      "width": 926,
+      "height": 178,
+      "desc": "「关于红色井界™」：全面自研、完全知识产权的闭源项目、20余万用户",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图11",
+      "file": "img11.png",
+      "width": 571,
+      "height": 450,
+      "desc": "CNNIC whois chronodivide.cn 注册者瑞得哈希 注册2025-10-26（邮箱需打码）",
+      "redact": [],
+      "baked_redact": [
+        [
+          0.47,
+          0.69,
+          0.3,
+          0.06
+        ]
+      ],
+      "recommended": true,
+      "note": "打包副本已模糊邮箱（baked_redact）"
+    },
+    {
+      "id": "图12",
+      "file": "img12.png",
+      "width": 1205,
+      "height": 294,
+      "desc": "企查查 瑞得哈希：注册资本1.25万、成立2026-02-05、集群注册（法定代表人名字已打码，只保留姓）",
+      "redact": [],
+      "baked_redact": [
+        [
+          0.113,
+          0.452,
+          0.027,
+          0.078
+        ]
+      ],
+      "recommended": true,
+      "note": "打包副本已模糊法定代表人名字，只保留姓（baked_redact）"
+    },
+    {
+      "id": "图13",
+      "file": "img13.png",
+      "width": 1260,
+      "height": 1517,
+      "desc": "B站动态 2023-12-12“不是私服，就是chronodivide正规授权…chronodivide是网页红警国际版项目名”+视频《网页红警荣获chronodivide致谢》7.3万播放",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图14",
+      "file": "img14.png",
+      "width": 371,
+      "height": 255,
+      "desc": "私信 2023-12-22“游戏主体核心不是你的吧”→“不是我的/我也没说过是我的”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图15",
+      "file": "img15.png",
+      "width": 819,
+      "height": 714,
+      "desc": "RA2WEB(红色井界)介绍页：基于Chronodivide引擎；2023-8软著；2024-3-29 RA2WEB LTD 英国商标",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图16",
+      "file": "img16.png",
+      "width": 969,
+      "height": 832,
+      "desc": "Discord：问“CD是网页红警国际版项目名”→use-strict回竖中指动图（需打码）",
+      "redact": [
+        [
+          0.15,
+          0.54,
+          0.81,
+          0.46
+        ]
+      ],
+      "recommended": true
+    },
+    {
+      "id": "图17",
+      "file": "img17.png",
+      "width": 976,
+      "height": 2130,
+      "desc": "B站视频《如何部署自己的网页红井？》2024-03-02；群聊“历史静态文件部署原作者明确许可，可分发”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图18",
+      "file": "img18.png",
+      "width": 955,
+      "height": 156,
+      "desc": "文案“如何部署自己的ChronoDivide站点？fork ra2web.github.io…chronodivide并不是开源项目”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图19",
+      "file": "img19.png",
+      "width": 1260,
+      "height": 1118,
+      "desc": "抖音「王二火大」主页：重制版红警中文版作者、全球第一个开源对标红警2游戏引擎的人；横幅含CHRONO DIVIDE标（性别年龄需打码）",
+      "redact": [],
+      "baked_redact": [
+        [
+          0.395,
+          0.9,
+          0.14,
+          0.07
+        ]
+      ],
+      "recommended": true,
+      "note": "打包副本已模糊性别年龄（baked_redact）"
+    },
+    {
+      "id": "图20",
+      "file": "img20.png",
+      "width": 1064,
+      "height": 338,
+      "desc": "X @huangkaoya 9/25：把手头闭源项目进行“抽取”形成开源仓库ts-redalert2用于AI训练",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图21",
+      "file": "img21.png",
+      "width": 541,
+      "height": 131,
+      "desc": "X @huangkaoya 10/5：ts-redalert2开源前大模型无法oneshot写出红警2",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图22",
+      "file": "img22.png",
+      "width": 1280,
+      "height": 1705,
+      "desc": "Discord：引述“原作者明确许可分发历史静态文件”→use-strict“obviously not true”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图23",
+      "file": "img23.png",
+      "width": 739,
+      "height": 461,
+      "desc": "Discord 2026-10-31 use-strict：他每次自动从我域名同步客户端；CD镜像不能随意开“ofc not”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图24",
+      "file": "img24.png",
+      "width": 988,
+      "height": 602,
+      "desc": "ts-redalert2 README：基于《红色井界》RA2WEB的分析而开发；GPL-3.0",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图25",
+      "file": "img25.png",
+      "width": 930,
+      "height": 141,
+      "desc": "commit「Reposition ra2web as fully self-developed and drop Chronodivide passthroughs」",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图26",
+      "file": "img26.png",
+      "width": 1590,
+      "height": 303,
+      "desc": "README diff：《时空分裂》→《红色井界》；删除“均视为对原作者Alexandru Ciucă和RA2WEB的侵权”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图27",
+      "file": "img27.png",
+      "width": 855,
+      "height": 651,
+      "desc": "王二火大主菜单（王二火大+CHRONO DIVIDE标，v0.87.1）",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图28",
+      "file": "img28.png",
+      "width": 1019,
+      "height": 78,
+      "desc": "Discord dogemoon 2026/10/28：会从自己构建中移除该logo（昵称标签需打码）",
+      "redact": [
+        [
+          0.139,
+          0.34,
+          0.072,
+          0.34
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.29
+        ]
+      ],
+      "recommended": true,
+      "note": "昵称和首行第三方粗口渲染时打码"
+    },
+    {
+      "id": "图29",
+      "file": "img29.png",
+      "width": 495,
+      "height": 312,
+      "desc": "B站评论 网页红警：项目含多个GPLv3代码→“cd应该开源，否则是他违规”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图30",
+      "file": "img30.png",
+      "width": 1280,
+      "height": 956,
+      "desc": "Discord dogemoon 2026/10/28：中国多舆论审判；如果我维权成功希望大家都注册商标",
+      "redact": [
+        [
+          0.335,
+          0.035,
+          0.17,
+          0.065
+        ]
+      ],
+      "recommended": true
+    },
+    {
+      "id": "图31",
+      "file": "img31.png",
+      "width": 765,
+      "height": 171,
+      "desc": "Discord dogemoon 2026/10/28：“并不是抢注…代为国内维权”“说了代为维权”",
+      "redact": [
+        [
+          0.185,
+          0.19,
+          0.1,
+          0.12
+        ],
+        [
+          0.185,
+          0.68,
+          0.1,
+          0.12
+        ]
+      ],
+      "recommended": true
+    },
+    {
+      "id": "图32",
+      "file": "img32.png",
+      "width": 491,
+      "height": 510,
+      "desc": "Discord 2026/10/29 商标初审公告第91624924号（申请2026-05-08）→use-strict“I did not authorize it”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图33",
+      "file": "img33.png",
+      "width": 687,
+      "height": 437,
+      "desc": "与事件无关的梗图（原稿配图）——存档，不用于成片",
+      "redact": [],
+      "recommended": false,
+      "note": "与主题无关的真实政治人物照片，不建议使用"
+    },
+    {
+      "id": "图34",
+      "file": "img34.png",
+      "width": 1270,
+      "height": 735,
+      "desc": "Discord use-strict：CD无尤里的复仇内容，仅支持原版RA2",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图35",
+      "file": "img35.png",
+      "width": 1332,
+      "height": 815,
+      "desc": "「尤里的复仇 Web」站，页内搜vera20k 0/0（无署名）；“下载王二火大移动客户端”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图36",
+      "file": "img36.png",
+      "width": 1540,
+      "height": 128,
+      "desc": "Discord dogemoon 声明：youlidefuchou早已披露基于vera20k；源码上传未及时履行；已提交3090 PR；遵循GPLv3",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图37",
+      "file": "img37.png",
+      "width": 1080,
+      "height": 341,
+      "desc": "PR diff：VERA20k.app→王二火大.app，ipa改名",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图38",
+      "file": "img38.png",
+      "width": 1072,
+      "height": 312,
+      "desc": "B站评论 2026-11-01 网友提醒署名；另一UP称轮盘和官网被高度抄袭",
+      "redact": [],
+      "recommended": false,
+      "note": "第三方说法，未经核实——存档，不用于成片"
+    },
+    {
+      "id": "图39",
+      "file": "img39.png",
+      "width": 787,
+      "height": 130,
+      "desc": "Discord Halvor：ra20k主要由libi运营，得到其与贡献者许可，是网页启动器",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图40",
+      "file": "img40.png",
+      "width": 431,
+      "height": 375,
+      "desc": "whois ra2ok.cn 注册人瑞得哈希 注册2026-11-06（邮箱打码）",
+      "redact": [],
+      "baked_redact": [
+        [
+          0.24,
+          0.32,
+          0.4,
+          0.075
+        ]
+      ],
+      "recommended": true,
+      "note": "打包副本已模糊邮箱（baked_redact）"
+    },
+    {
+      "id": "图41",
+      "file": "img41.png",
+      "width": 1078,
+      "height": 200,
+      "desc": "B站评论 2024-03-01 网友比喻赏金事件；网页红警回复“先给一部分，200作为辛苦费”",
+      "redact": [
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.66
+        ]
+      ],
+      "recommended": true,
+      "note": "上方第三方评论渲染时打码"
+    },
+    {
+      "id": "图42",
+      "file": "img42.png",
+      "width": 919,
+      "height": 473,
+      "desc": "网页红警视频字卡：悬赏200甚至2000元…某位大佬称共和国之辉不配那么多钱…视频已删除",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图43",
+      "file": "img43.png",
+      "width": 1142,
+      "height": 308,
+      "desc": "私信“cd通过我的渠道已经拿了至少5000赞助”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图44",
+      "file": "img44.png",
+      "width": 1260,
+      "height": 256,
+      "desc": "私信“他因为我的网站收入了几乎上万元”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图45",
+      "file": "img45.png",
+      "width": 1280,
+      "height": 913,
+      "desc": "Discord 2026/10/28 use-strict：几年前收到过一笔DOGE捐赠，远没有那个数额，无法核实来源",
+      "redact": [
+        [
+          0.15,
+          0.43,
+          0.8,
+          0.13
+        ]
+      ],
+      "recommended": true,
+      "note": "第三方提问里的嘲讽句渲染时打码"
+    },
+    {
+      "id": "图46",
+      "file": "img46.png",
+      "width": 1276,
+      "height": 766,
+      "desc": "B站动态 2026-11-15「张三水小：尤里的复仇 正式推出」称比vera20k/openra/chronodivide表现强",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图47",
+      "file": "img47.png",
+      "width": 1869,
+      "height": 159,
+      "desc": "B站评论 网页红警：过失仅“没在网站公示精确到commit版本”，已获vera20k创始人正式确认ok",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图48",
+      "file": "img48.png",
+      "width": 1508,
+      "height": 485,
+      "desc": "Discord Halvor 2026/11/8 VERA20K 声明全文（PR#3087、OK含义、禁止使用）",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图49",
+      "file": "img49.png",
+      "width": 1205,
+      "height": 582,
+      "desc": "Discord 私信 dogemoon 2026-10-27：“你真觉得我是在投毒啊？”“王二火大是无厘头名字…有人…都是收了钱的…那就会让王二火大出现在判决书中”",
+      "redact": [],
+      "recommended": true
+    },
+    {
+      "id": "图50",
+      "file": "img50.png",
+      "width": 687,
+      "height": 130,
+      "desc": "Discord dogemoon：“我或许就是使命召唤中的普莱斯，我有自己热爱的东西需要捍卫”",
+      "redact": [
+        [
+          0.215,
+          0.07,
+          0.11,
+          0.16
+        ]
+      ],
+      "recommended": true
+    }
+  ]
+}
