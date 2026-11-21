@@ -234,4 +234,20 @@ python3 scripts/extract_docx.py 新文档.docx ~/video-maker-out/新文档抽取
 - **高亮框和打码坐标要人工确认**，脚本不会自动识别文字位置；`assets.json` 里标了渲染时自动模糊的区域。
 - **自己写分镜时先读制作简报和事实表。** [`case-brief.md`](skills/video-maker/references/case-brief.md) 第 3 节是必须遵守的口径；[`facts.md`](skills/video-maker/facts.md) 第 4 节列了没有公开证据、不能说成事实的内容；图33、图38 只存档，不用于成片。
 
+## 进阶版技能：video-maker-pro（动效与声音）
+
+skills/video-maker-pro/ 是在 ideo-maker 之上蒸馏出来的进阶流水线：同样做这个题材，但补上了**关系网、矛盾对撞、证据墙、流程链、网页摘录、提问卡、巨型质问、猜测卡**这八类自制动效场景，以及一套**程序化配乐与音效**（numpy 合成，无版权素材）、混音与响度校准、可逐镜重跑的构建流水线。
+
+- 它不重复造渲染器：装配仍用 ideo-maker/scripts/render_video.py，两个技能放在同一个 skills/ 目录即可（也支持 VIDEO_MAKER_SKILL 指定路径）。
+- 自带一支 93 镜 / 16 分 42 秒的成品分镜 [story/story_v3.py](skills/video-maker-pro/story/story_v3.py)，并附带 [公开网页摘录](skills/video-maker-pro/web-evidence.md)（6 个网页的原文与抓取日期）。
+- 进入方式看 [skills/video-maker-pro/SKILL.md](skills/video-maker-pro/SKILL.md)；流水线细节、场景参数、声音做法、写法与踩坑在 
+eferences/ 下。
+
+两条命令试跑：
+
+`ash
+cd skills/video-maker-pro
+python tools/build.py narration && python tools/build.py all
+`
+
 更多细节：工作流程看 [`SKILL.md`](skills/video-maker/SKILL.md)，出片、JSON 规范和排错看 [`rendering.md`](skills/video-maker/references/rendering.md)。

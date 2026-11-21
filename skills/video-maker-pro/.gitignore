@@ -1,0 +1,10 @@
+# 生成物，不入库
+build/
+out/
+audio/bgm/
+audio/sfx/
+audio/nar/
+audio/*.wav
+*.pyc
+__pycache__/
+.venv/
